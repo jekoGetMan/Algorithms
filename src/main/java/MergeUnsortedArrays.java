@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class mergeUnsortedArrays {
+public class MergeUnsortedArrays {
 
     public static int[] mergeUnsortedArrays(int[] arr1, int arr2[]) {
         int[] mergeUnsortedArray = new int[arr1.length + arr2.length];

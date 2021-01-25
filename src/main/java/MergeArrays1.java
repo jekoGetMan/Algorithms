@@ -1,6 +1,6 @@
 import java.util.stream.Stream;
 import java.util.Arrays;
-public class mergeArrays1
+public class MergeArrays1
 {
 
     public static <T> Object[] mergeArray(T[] arr1, T[] arr2)
